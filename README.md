@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Playwright-typescript-Automation</h3>
 
 - 🔭 I’m currently working on [playwright-typescript](https://github.com/shariaafroz14/PLAYWRIGHT-TYPESCRIPT-AUTOMATION.git)
 
